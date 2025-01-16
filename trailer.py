@@ -1,6 +1,6 @@
 import tmdbsimple as tmdb
 
-tmdb.API_KEY = 'ce870475b3eaab2e657e0ed0eae9d086'
+tmdb.API_KEY = ''
 
 def obtener_trailer(movie_name):
     search = tmdb.Search()
