@@ -1,7 +1,7 @@
 import tmdbsimple as tmdb
 
 # Configura tu clave de API de TMDb
-tmdb.API_KEY = 'ce870475b3eaab2e657e0ed0eae9d086'
+tmdb.API_KEY = ''
 
 def obtener_detalles_pelicula(nombre_pelicula):
     # Buscar la película por nombre
